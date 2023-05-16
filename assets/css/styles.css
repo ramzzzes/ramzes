@@ -1980,7 +1980,7 @@ li .fa {
 
 .mh-portfolio-modal-inner {
   max-height: 500px;
-  overflow-y: hidden;
+  overflow-y: scroll;
   margin-right: 20px;
 }
 
